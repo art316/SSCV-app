@@ -1,0 +1,93 @@
+{
+  "iD": "ODqT6AjpuB",
+  "position": "iOS Developer",
+  "profile": {
+    "personalInfo": {
+      "name": "Sergio",
+      "lastName": "Solórzano",
+      "mail": "sergio-art@outlook.com",
+      "phone": "5561949433",
+      "userImageUrl": "https://scontent.fmex2-1.fna.fbcdn.net/v/t1.0-9/53050733_10157400441146742_2895345038869397504_o.jpg?_nc_cat=101&_nc_oc=AQlHGESBftHntdxo8Gix00b5RAvG78VrGM7_ah9G3Gqv0WAe-FXjJdZw14kNkbqARJg&_nc_ht=scontent.fmex2-1.fna&oh=d835be3330e3de1ac188e4f1c5e113d9&oe=5E08C769"
+    },
+    "summary": "Sergio is always looking for something new to learn so he can collaborate to create new and better experiences. He has two and a half years of experience as an iOS and watchOS developer. He collaborated in projects that had been driven by agile methodologies, in which he had the opportunity to implement some of the iOS frameworks and extensions.",
+    "globalSkills": [
+      {"type": "Development",
+      "skills":[{
+      "name": "Objective C",
+        "proficency": 7
+      },
+      {
+      "name": "Python",
+        "proficency": 2
+      },
+      {
+      "name": "Swift",
+        "proficency": 8
+      }]
+      },
+      {"type": "Languages",
+      "skills":[{
+      "name": "Spanish",
+        "proficency": 10
+      },
+      {
+      "name": "English",
+        "proficency": 8
+      }]
+      }, {"type": "Personal",
+          "skills":[{
+              "name": "Team Work",
+              "proficency": 0
+          },
+          {
+              "name": "Optimistic",
+              "proficency": 0
+          },{
+              "name": "Resiliant",
+              "proficency": 0
+          }]
+      }
+    ],
+    "experience": [
+      {
+        "name": "Broxel",
+        "from": "11/2017",
+        "to": "",
+        "isCurrentJob": true,
+        "city": "Mexico City",
+        "country": "Mexico",
+        "position": "iOS Developer",
+        "achivements": [
+          "Worked with MVC, MVP and VIPER",
+          "Contribute to the localization of the application",
+          "Implement the framework of vision for face, text and ID recognition",
+          "Designed and delivered the development of the watchOS application",
+          "Contributed to the development of the today, keyboard and Siri extension from the main application"
+        ]
+      },
+      {
+        "name": "Sferea",
+        "from": "02/2017",
+        "to": "06/2017",
+        "isCurrentJob": false,
+        "city": "Mexico City",
+        "country": "Mexico",
+        "position": "iOS Developer",
+        "achivements": [
+          "Finished the development of the last part of a Beta App",
+          "Learn how to develop iOS application for iPhone and iPad"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "universityName": "Instituto Politécnico Nacional",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "from": "08/2010",
+        "to": "06/2016",
+        "collegeDegree": "BS, Communication & Electronic Engineering"
+      }
+    ]
+  }
+}
